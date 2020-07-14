@@ -72,7 +72,7 @@ The `ESC` button in Jupyter-Notebook activates the `command mode` and the other 
 
 1. **Green -> Edit Mode**
 2. **Blue -> Command Mode**
-  
+
 
 The `edit mode`, as the name suggests is used for editing the contents of the cell, while in the `command mode`, you can perform other functions such as adding a new cell, deleting an existing cell, toggling between Markdown/Code and so on. You can find a list of things that you could do in `command mode` in the shortcuts menu.
 
@@ -83,7 +83,7 @@ Jupyter Notebook gives you several options to export your notebook. Those option
 Btw, if you had generated plots or other visual outputs during your data analysis, they will all be saved and will remain exactly as you left it. That is really cool as you can literally use this as a lab notebook if you are in the research domain like me.
 
 #### Well, that's pretty much it
-Hope you enjoyed the first article of the **Data analysis and Programming Series**. As I write continuing articles and make accompanying videos, if you would like me to be drop you an email on publication, leave your email below.
+Hope you enjoyed the first article of the **Data analysis and Programming Series**. As I write continuing articles and make accompanying videos, if you would like me to drop you an email on publication, leave your email below.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
