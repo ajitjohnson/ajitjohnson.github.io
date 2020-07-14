@@ -1,5 +1,5 @@
 ---
-title:  "The Easiest way to Setup & Walkthrough Jupyter Notebook for Python and R"
+title:  "The Easiest way to Setup & Use Jupyter Notebook for Python and R"
 date:   2020-07-14 11:00:00
 comments: true
 description: In this Tutorial, we will be learning how to install, setup, and use Jupyter Notebooks.
