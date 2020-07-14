@@ -8,6 +8,10 @@ profile: false
 <br>
 #### I will try and keep this updated. At least for the sake of my own reference.
 
+☺ The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution - [Cell](https://www.sciencedirect.com/science/article/pii/S0092867420303469){:target="_blank"}, 2020
+
+☺ Transcriptomics analysis of porcine caudal dorsal root ganglia in tail amputated pigs shows long-term effects on many pain-associated genes - [Frontiers in veterinary science](https://www.frontiersin.org/articles/10.3389/fvets.2019.00314/full){:target="_blank"}, 2019
+
 ☺ Immune cell gene signatures for profiling the microenvironment of solid tumors - [Cancer immunology research](http://cancerimmunolres.aacrjournals.org/content/6/11/1388){:target="_blank"}, 2018
 
 
