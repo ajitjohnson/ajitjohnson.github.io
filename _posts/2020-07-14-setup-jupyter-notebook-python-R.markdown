@@ -32,7 +32,7 @@ The *Jupyter Notebook* application will open in your default browser automatical
 
 ![Jupyter Notebook Home](/assets/images/2020-07-14-setup-jupyter-notebook-python-R/jupyter_notebook_home.png)
 
-### Jupyter-Notebook Walkthrough
+### Using Jupyter-Notebook, a walkthrough
 
 From the files tab, navigate to the folder you would like to save your notebook. I generally keep all my notebooks into a single folder, organized by projects.
 
