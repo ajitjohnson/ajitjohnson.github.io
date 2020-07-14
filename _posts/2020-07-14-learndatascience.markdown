@@ -10,11 +10,11 @@ header-img: "/assets/images/learn python R data science.png"
 
 No matter where you are in your career or what field you work in, data science has become extremely important and you will need to understand the language of data. Of course if you are a researcher like me, making sense of your data is critical.
 
-I learned to code Python and R by myself and subsequently gained an in depth understanding of statistics and applied them to develop algorithms that solved biological problems. **Honing these skills have opened tremendous opportunities in my professional career and so I would like to share this knowledge and hope that it helps you too.**
+I learned to code Python and R by myself and subsequently gained an in depth understanding of statistics and used them to develop algorithms that solved biological problems. **Honing these skills have opened tremendous opportunities in my professional career and so I would like to share this knowledge and hope that it helps you too.**
 
-The objective of this post is announce that I will start a series of video tutorials to teach Data Science using Python and R. I will start from the very basics and I hope this series will help you learn/sharpen your coding and data analysis skills. In the interest of every one's busy schedules, I hope to make really short videos (< 5 mins) that are right on point and impactful.
+The objective of this post is announce that I will start a series of video tutorials to teach Data Science using Python and R. I will start from the very basics and I hope that the tutorial series will help you learn/sharpen your coding and data analysis skills. In the interest of every one's busy schedules, I will make really short videos (< 5 mins) that is right on point and impactful.
 
-> I guess I will upload the videos on Youtube and other social media sites, if you follow me on any of these sites you might see it. Or if you would like me to drop you an email, when I make a post, add your email below.
+> I guess, I will upload these videos to Youtube and other social media sites, if you follow me on any of these sites you might see it. Or if you would like me to drop you an email, when I post them, add your email below.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
