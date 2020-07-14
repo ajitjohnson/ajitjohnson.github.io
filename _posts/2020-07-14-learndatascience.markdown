@@ -37,4 +37,5 @@ The objective of this post is announce that I will start a series of video tutor
 
 <!--End mc_embed_signup-->
 
+  
 Bye for now! Have a nice day 😊
