@@ -72,6 +72,7 @@ The `ESC` button in Jupyter-Notebook activates the `command mode` and the other 
 
 1. **Green -> Edit Mode**
 2. **Blue -> Command Mode**
+  
 
 The `edit mode`, as the name suggests is used for editing the contents of the cell, while in the `command mode`, you can perform other functions such as adding a new cell, deleting an existing cell, toggling between Markdown/Code and so on. You can find a list of things that you could do in `command mode` in the shortcuts menu.
 
