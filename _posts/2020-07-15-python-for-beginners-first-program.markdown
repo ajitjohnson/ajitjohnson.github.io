@@ -8,7 +8,7 @@ tags: ['coding', 'educational', 'Tutorial', 'Data Science', 'Jupyter Notebooks']
 header-img: "/assets/images/learn python R data science.png"
 ---
 
-Hey guys, welcome back to another tutorial on **data-analysis and programming with Python and R**. I hope you are already setup with *Jupyter Notebook* to run your first python program. If not, you can checkout my [previous article](https://ajitjohnson.com/setup-jupyter-notebook-python-R/) on how to set up a *jupyter notebook* for Python.
+Hey guys, welcome back to another tutorial on **data-analysis and programming with Python**. I hope you are already setup with *Jupyter Notebook* to run your first python program. If not, checkout my [previous article](https://ajitjohnson.com/setup-jupyter-notebook-python-R/) on how to set up a *jupyter notebook* for Python.
 
 > **Download the Jupyter Notebook for this <a href="/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb" download>tutorial here</a>**
 
@@ -225,7 +225,7 @@ Of course we can modify this function to be more intelligent. For example, one c
 
 However, in order to implement that, you will need to learn how to write an `if else` statement. We will learn that in the next tutorial.
 
-Finally, below is a challenge for you. **I cannot stress how important this is.** The only way to learn to code is to  practice continuously. Go ahead and [download](https://github.com/ajitjohnson/ajitjohnson.github.io/blob/master/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb) this notebook, execute the previous commands and complete the challenge below. If you get stuck at any point, drop me a comment below or if you successfully completed the task, let me know that in the comments as well.
+Finally, below is a challenge for you. **I cannot stress how important this is.** The only way to learn to code is to  practice continuously. Go ahead and <a href="/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb" download>download </a> this notebook, execute the previous commands and complete the challenge below. If you get stuck at any point, drop me a comment below or if you successfully completed the task, let me know that in the comments as well.
 
 # The Challenge
 > **Write a python program to calculate the the number of days between your birthday and Christmas.**
