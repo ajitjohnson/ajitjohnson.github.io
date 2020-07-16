@@ -29,7 +29,7 @@
 .method,
 .hljs-list .hljs-title,
 .nginx .hljs-title {
-  color: #ffffb6;
+  color: #8B0000;
 }
 
 .hljs-string,
@@ -84,7 +84,7 @@
 }
 
 .css .hljs-class {
-  color: #fff;
+  color: #8B0000;
 }
 
 .hljs-hexcolor {
