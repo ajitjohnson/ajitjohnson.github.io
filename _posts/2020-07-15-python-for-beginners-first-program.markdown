@@ -10,9 +10,9 @@ header-img: "/assets/images/learn python R data science.png"
 
 Hey guys, welcome back to another tutorial on **data-analysis and programming with Python and R**. I hope you are already setup with *Jupyter Notebook* to run your first python program. If not, you can checkout my [previous article](https://ajitjohnson.com/setup-jupyter-notebook-python-R/) on how to set up a *jupyter notebook* for Python.
 
-> **Download the Jupyter Notebook for this [tutorial here](https://github.com/ajitjohnson/ajitjohnson.github.io/blob/master/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb.zip)**
+> **Download the Jupyter Notebook for this <a href="/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb" download>tutorial here</a>**
 
-<a href="/assets/images/2020-07-14-setup-jupyter-notebook-python-R/anaconda_webpage.png" download>Download this picture of a flamingo.</a>
+
 
 ## Let's Get Started
 ### Simple arithmetic  operations
