@@ -12,7 +12,7 @@ Hey guys, welcome back to another tutorial on **data-analysis and programming wi
 
 > **Download the Jupyter Notebook for this [tutorial here](https://github.com/ajitjohnson/ajitjohnson.github.io/blob/master/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb.zip)**
 
-<a href="https://github.com/ajitjohnson/ajitjohnson.github.io/blob/master/assets/data/2020-07-15-python-for-beginners-first-program/2020-07-15-python-for-beginners-first-program.ipynb.zip" download="2020-07-15-python-for-beginners-first-program.ipynb.zip">download this</a>
+<a href="/assets/images/2020-07-14-setup-jupyter-notebook-python-R/anaconda_webpage.png" download>Download this picture of a flamingo.</a>
 
 ## Let's Get Started
 ### Simple arithmetic  operations
