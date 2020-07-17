@@ -1,8 +1,8 @@
 ---
-title:  "Python for Beginners- Your First Line of Python Code"
-date:   2020-07-15 11:00:00
+title:  "IF ELSE ELIF Statements: The Easiest Python Tutorial for Beginners"
+date:   2020-07-17 11:00:00
 comments: true
-description: In this Tutorial, you will learn how to write your first python program.
+description: In this Python Beginner Tutorial, we will learn about if, else & elif statements in Python.
 categories: ['R', 'Python', 'Data Science']
 tags: ['coding', 'educational', 'Tutorial', 'Data Science', 'Jupyter Notebooks']
 header-img: "/assets/images/learn python R data science.png"
