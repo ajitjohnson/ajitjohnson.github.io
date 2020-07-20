@@ -1,5 +1,5 @@
 ---
-title:  "The Easiest Python Tutorial for Beginners: Your First Line of Python Code"
+title:  "Easy Python Tutorial for Beginners: Your First Line of Python Code"
 date:   2020-07-15 11:00:00
 comments: true
 description: In this Python Beginner Tutorial, we will learn how to write your very first Python program.
