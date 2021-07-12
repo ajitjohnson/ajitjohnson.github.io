@@ -104,3 +104,8 @@
 .xml .hljs-cdata {
   opacity: 0.7;
 }
+
+
+#wrapper {
+    max-width: 1000px;
+}
