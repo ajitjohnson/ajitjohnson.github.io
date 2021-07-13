@@ -1,0 +1,53 @@
+name: Ajit Johnson Nirmal
+description: Cancer Geneticist,<a href="https://scholar.harvard.edu/ajitjohnson" target="_blank"> Harvard University </a>| Voicing for evidence based policies to preserve our species for another million years.
+meta_description: "Cancer Geneticist @ Harvard University"
+
+aboutPage: true
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: [jekyll-paginate]
+paginate: 20
+domain_name: 'https://ajitjohnson.com'
+google_analytics: 'UA-87347639-1'
+disqus: true
+disqus_shortname: 'ajitjohnson-com'
+
+# Details for the RSS feed generator
+url:            'https://ajitjohnson.com'
+author:         'Ajit Johnson Nirmal'
+authorTwitter:  'ajitjohnson_n'
+
+permalink:       /:title/
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+            is_post: true # automatically set is_post=true for all posts
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
