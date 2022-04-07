@@ -8,6 +8,13 @@ profile: false
 <br>
 #### I will try and keep this updated. At least for the sake of my own reference.
 
+
+☺ MITI minimum information guidelines for highly multiplexed tissue images - [Nature Methods](https://www.nature.com/articles/s41592-022-01415-4){:target="_blank"}, 2022
+
+☺ Overcoming IMiD resistance in T-cell lymphomas through potent degradation of ZFP91 and IKZF1 - [Blood](https://pubmed.ncbi.nlm.nih.gov/34936696/){:target="_blank"}, 2022
+
+☺ MCMICRO: A scalable, modular image-processing pipeline for multiplexed tissue imaging - [Nature Methods](https://www.nature.com/articles/s41592-021-01308-y){:target="_blank"}, 2022
+
 ☺ The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution - [Cell](https://www.sciencedirect.com/science/article/pii/S0092867420303469){:target="_blank"}, 2020
 
 ☺ Transcriptomics analysis of porcine caudal dorsal root ganglia in tail amputated pigs shows long-term effects on many pain-associated genes - [Frontiers in veterinary science](https://www.frontiersin.org/articles/10.3389/fvets.2019.00314/full){:target="_blank"}, 2019
