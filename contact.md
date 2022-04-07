@@ -11,7 +11,7 @@ Hello, Thank you for dropping by. I’m Ajit and I am currently a *Postdoctoral 
 
 **Scientific objective:** Drive cancer therapeutics towards personalized medicine whereby we treat cancer as a systemic disease and *target the entire tumor eco-system* in contrast to our current tumor-centric approach. 
 
-**Short term career goals:** Lead a highly interdisciplinary laboratory at a leading institute *(Assistant Professor)* that focuses on the development of experimental and computational approaches to systematically decipher regulatory circuits that underlie cancer development, metastasis, and resistance to treatment.
+**Short term career goals:** Lead an interdisciplinary laboratory at a leading institute *(Assistant Professor)* that focuses on the development of experimental and computational approaches to systematically decipher regulatory circuits that underlie cancer development, metastasis, and resistance to treatment.
 
 **Email:** ajitj_nirmal[at]dfci[dot]harvard[dot]edu
 
