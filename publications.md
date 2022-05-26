@@ -8,6 +8,7 @@ profile: false
 <br>
 #### I will try and keep this updated. At least for the sake of my own reference.
 
+☺ The Spatial Landscape of Progression and Immunoediting in Primary Melanoma at Single-Cell Resolution - [Cancer Discovery](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1357/698892/The-Spatial-Landscape-of-Progression-and){:target="_blank"}, 2022
 
 ☺ MITI minimum information guidelines for highly multiplexed tissue images - [Nature Methods](https://www.nature.com/articles/s41592-022-01415-4){:target="_blank"}, 2022
 
