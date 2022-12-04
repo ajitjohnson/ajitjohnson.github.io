@@ -1,5 +1,5 @@
 ---
-title:  "What is Spatial Transcriptomics"
+title:  "Unlocking the Power of Spatial Transcriptomics: A Game-Changing Technology for Cancer Medicine"
 date:   2022-12-04 11:00:00
 comments: true
 description: Spatially resolved transcriptomics is our Method of the Year 2020.
