@@ -25,19 +25,33 @@ In conclusion, spatial transcriptomics is a powerful technology that has the pot
 <br>
 
 <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; border-radius: 5px;}
+</style>
+
+
 
 <div id="mc_embed_signup">
-	<h5 style="font-family : 'Avenir Light' ;">JOIN FOR LAB UPDATES</h5>
-		<form action="https://gmail.us21.list-manage.com/subscribe/post?u=693443d46aefc913be227235d&amp;id=285c3aad78&amp;f_id=007ec1e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
-		<div class="input-group">
-			<input type="email" value="" name="EMAIL" id="mce-EMAIL" required="required" class="form-control" placeholder="Enter email">
-		</div>
-	<span><button class="btn btn-default" style="background-color:#6783a9; width: 100%;" type="submit"><i class="fa fa-send"></i>&nbsp;</button></span>
-	<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_693443d46aefc913be227235d_285c3aad78" tabindex="-1" value="">
+<form action="https://gmail.us21.list-manage.com/subscribe/post?u=693443d46aefc913be227235d&amp;id=285c3aad78&amp;f_id=007ec1e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+    <h2>Join our Lab Updates</h2>
+        <div class="mc-field-group">
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"
+            style="width: 100%;" placeholder="Email">
+        </div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_693443d46aefc913be227235d_285c3aad78" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="width: 97%;"></div>
     </div>
-	</form>
+</form>
 </div>
-
 <!--End mc_embed_signup-->
+
+
 <br>
 Bye for now! Have a nice day 😊
